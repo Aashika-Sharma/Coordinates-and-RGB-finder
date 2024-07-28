@@ -33,7 +33,7 @@ conda install -c conda-forge opencv
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/Aashika-Sharma/Coordinates-and-RGB-finder.git
-   cd image-annotation-tool
+   cd Coordinates-and-RGB-finder
    ```
 
 2. **Run the Script**:
