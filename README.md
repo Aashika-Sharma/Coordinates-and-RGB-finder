@@ -1,7 +1,3 @@
-Creating a README file is an important step for any project, as it provides users and developers with essential information about the project, how to use it, and any other relevant details. Here’s a sample README for your project, which involves annotating images with labels and RGB values:
-
----
-
 # Image Annotation Tool
 
 ## Overview
