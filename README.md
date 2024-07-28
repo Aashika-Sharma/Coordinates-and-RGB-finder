@@ -1,4 +1,4 @@
-# Image Annotation Tool
+# Coordinates and RGB finder
 
 ## Overview
 The Image Annotation Tool is a simple Python application that allows users to annotate images with labels and record the RGB values at specified points. This tool is useful for creating annotated datasets, marking significant points in images, and more. The annotations are saved in a JSON file, and the annotated image can also be saved.
