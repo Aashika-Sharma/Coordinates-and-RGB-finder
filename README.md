@@ -30,9 +30,9 @@ conda install -c conda-forge opencv
 
 ## Usage
 
-1. **Clone the Repository**: (if hosted on GitHub)
+1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/image-annotation-tool.git
+   git clone https://github.com/Aashika-Sharma/Coordinates-and-RGB-finder.git
    cd image-annotation-tool
    ```
 
